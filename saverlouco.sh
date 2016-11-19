@@ -1,6 +1,6 @@
 #!/bin/bash
 
-[ $1 ] || { echo "Uso: $0 texto"; exit 0; } 
+[[ $* ]] || { echo "Uso: $0 texto"; exit 0; } 
 
 trap 'tput reset' exit
 tput civis
