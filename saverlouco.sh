@@ -1,5 +1,13 @@
 #!/bin/bash
 
+#-------------------------------------------------------
+# Data:        22 de Março de 2016
+# Criado por:  Juliano Santos [SHAMAN]
+# Descrição:   Screensaver muito doido
+# Página:      http://www.shellscriptx.blogspot.com.br
+# Github:      https://github.com/shellscriptx
+#-------------------------------------------------------
+
 [[ $* ]] || { echo "Uso: $0 texto"; exit 0; } 
 
 trap 'tput reset' exit
