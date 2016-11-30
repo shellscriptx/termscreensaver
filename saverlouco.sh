@@ -3,6 +3,7 @@
 #-------------------------------------------------------
 # Data:        22 de Março de 2016
 # Criado por:  Juliano Santos [SHAMAN]
+# Script:      saverlouco.sh
 # Descrição:   Screensaver muito doido
 # Página:      http://www.shellscriptx.blogspot.com.br
 # Github:      https://github.com/shellscriptx
